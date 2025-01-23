@@ -7,8 +7,10 @@ The aim of this project was to predict the disease type (phenotype) from transcr
 - Labels (0/1) are encoding tumor grade “II-” vs. “III+”
 
 
-This project was build testing out only different linear models, such as 
+This project was built testing out only different linear models, such as 
 - Logistic Regression
 - Linear Regression
 - Ridge and Lasso Regression
 - Etc.
+
+The final model was selected through extensive hyperparameter tuning.
